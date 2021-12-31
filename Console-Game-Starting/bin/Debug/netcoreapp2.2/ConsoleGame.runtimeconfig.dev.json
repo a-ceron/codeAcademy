@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/aceron/.dotnet/store/|arch|/|tfm|",
+      "/Users/aceron/.nuget/packages"
+    ]
+  }
+}

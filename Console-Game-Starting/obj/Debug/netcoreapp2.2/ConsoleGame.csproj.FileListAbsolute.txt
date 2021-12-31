@@ -1,0 +1,13 @@
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.deps.json
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.runtimeconfig.json
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.runtimeconfig.dev.json
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.dll
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.pdb
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csproj.AssemblyReference.cache
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfoInputs.cache
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfo.cs
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csproj.CoreCompileInputs.cache
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.dll
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.pdb
+/Users/aceron/Documents/CodeAcademy/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.genruntimeconfig.cache
